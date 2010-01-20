@@ -1,0 +1,51 @@
+[submodule "Ruby.tmbundle"]
+	path = Ruby.tmbundle
+	url = git://github.com/drnic/ruby-tmbundle.git
+[submodule "Cucumber.tmbundle"]
+	path = Cucumber.tmbundle
+	url = git://github.com/bmabey/cucumber-tmbundle.git
+[submodule "Git.tmbundle"]
+	path = Git.tmbundle
+	url = git://github.com/timcharper/git-tmbundle.git
+[submodule "Rspec.tmbundle"]
+	path = Rspec.tmbundle
+	url = git://github.com/dchelimsky/rspec-tmbundle.git
+[submodule "Html.tmbundle"]
+	path = Html.tmbundle
+	url = git://github.com/drnic/html-tmbundle.git
+[submodule "RubyOnRails.tmbundle"]
+	path = RubyOnRails.tmbundle
+	url = git://github.com/drnic/ruby-on-rails-tmbundle.git
+[submodule "JavascriptTools.tmbundle"]
+	path = JavascriptTools.tmbundle
+	url = git://github.com/subtleGradient/javascript-tools.tmbundle.git
+[submodule "Javascript.tmbundle"]
+	path = Javascript.tmbundle
+	url = git://github.com/subtleGradient/javascript.tmbundle.git
+[submodule "Css.tmbundle"]
+	path = Css.tmbundle
+	url = git://github.com/subtleGradient/css.tmbundle.git
+[submodule "RubyHaml.tmbundle"]
+	path = RubyHaml.tmbundle
+	url = git://github.com/douglasjarquin/ruby-haml-tmbundle.git
+[submodule "Ack.tmbundle"]
+	path = Ack.tmbundle
+	url = git://github.com/protocool/ack-tmbundle.git
+[submodule "Saas.tmbundle"]
+	path = Saas.tmbundle
+	url = git://github.com/seaofclouds/sass-textmate-bundle.git
+[submodule "Erlang.tmbundle"]
+	path = Erlang.tmbundle
+	url = git://github.com/textmate/erlang.tmbundle.git
+[submodule "CopyAsRtf.tmbundle"]
+	path = CopyAsRtf.tmbundle
+	url = git://github.com/drnic/copy-as-rtf-tmbundle.git
+[submodule "C.tmbundle"]
+	path = C.tmbundle
+	url = git://github.com/textmate/c.tmbundle.git
+[submodule "Jspec.tmbundle"]
+	path = Jspec.tmbundle
+	url = git://github.com/visionmedia/jspec.tmbundle.git
+[submodule "JavascriptNode.tmbundle"]
+	path = JavascriptNode.tmbundle
+	url = git://github.com/drnic/javascript-node.tmbundle.git
