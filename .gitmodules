@@ -28,9 +28,6 @@
 [submodule "RubyHaml.tmbundle"]
 	path = RubyHaml.tmbundle
 	url = git://github.com/douglasjarquin/ruby-haml-tmbundle.git
-[submodule "Ack.tmbundle"]
-	path = Ack.tmbundle
-	url = git://github.com/protocool/ack-tmbundle.git
 [submodule "Saas.tmbundle"]
 	path = Saas.tmbundle
 	url = git://github.com/seaofclouds/sass-textmate-bundle.git
