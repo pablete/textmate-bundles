@@ -49,3 +49,9 @@
 [submodule "JavascriptNode.tmbundle"]
 	path = JavascriptNode.tmbundle
 	url = git://github.com/drnic/javascript-node.tmbundle.git
+[submodule "Clojure.tmbundle"]
+	path = Clojure.tmbundle
+	url = git://github.com/stephenroller/clojure-tmbundle.git
+[submodule "TrailingSpaces.tmbundle"]
+	path = TrailingSpaces.tmbundle
+	url = http://github.com/glennr/uber-glory-tmbundle.git
