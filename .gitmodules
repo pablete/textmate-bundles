@@ -55,3 +55,6 @@
 [submodule "Javascript-Appcelerator-Titanium-Mobile.tmbundle"]
 	path = Javascript-Appcelerator-Titanium-Mobile.tmbundle
 	url = http://github.com/subtleGradient/JavaScript-Appcelerator-Titanium-Mobile.tmbundle.git
+[submodule "Ack.tmbundle"]
+	path = Ack.tmbundle
+	url = http://github.com/protocool/ack-tmbundle.git
