@@ -58,3 +58,6 @@
 [submodule "Ack.tmbundle"]
 	path = Ack.tmbundle
 	url = http://github.com/protocool/ack-tmbundle.git
+[submodule "CopyWithStyle.tmbundle"]
+	path = CopyWithStyle.tmbundle
+	url = git://github.com/bblimke/copy-with-style-tmbundle.git
